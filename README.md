@@ -2,7 +2,7 @@
 
 A powerful machine learning-based web application that detects whether an email is **Spam** or **Not Spam**, built using **Python**, **Scikit-learn**, and **Streamlit**.
 
-> 🚀 **Live Demo**: [Click here to try it out](https://your-streamlit-link.streamlit.app)  
+> 🚀 **Live Demo**: [Click here to try it out](https://email-spam-detector-e5jzg4ghxiafxm7eu2ilsb.streamlit.app/)  
 > *(Replace with your actual Streamlit Cloud link)*
 
 ---
