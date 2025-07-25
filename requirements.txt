@@ -7,5 +7,4 @@ matplotlib
 wordcloud
 pyttsx3
 SpeechRecognition
-pyaudio
 email-validator
